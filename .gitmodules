@@ -1,6 +1,3 @@
-[submodule "ApiSpring"]
-	path = ApiSpring
-	url = git@github.com:Magenic/BikeShopAPISpring.git
-[submodule "SpringApi"]
-	path = SpringApi
+[submodule "APISpring"]
+	path = APISpring
 	url = git@github.com:Magenic/BikeShopAPISpring.git
