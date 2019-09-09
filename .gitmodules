@@ -1,3 +1,7 @@
 [submodule "APISpring"]
 	path = APISpring
 	url = git@github.com:Magenic/BikeShopAPISpring.git
+[submodule "APIDotNet"]
+	path = APIDotNet
+	url = git@github.com:Magenic/BikeShopAPIDotNet.git
+
