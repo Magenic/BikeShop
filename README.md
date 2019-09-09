@@ -21,6 +21,7 @@ To do each of the labs, you should have the following installed and configured:
    1. IDEA IntelliJ
    1. SpringSource Tool Suite
 1. The [Java JDK from OpenJDK](http://openjdk.java.net/install/index.html).
+1. [.NET Core 2.2.x](https://dotnet.microsoft.com/download/dotnet-core/2.2).
 1. The [CloudFoundry CLI](https://docs.run.pivotal.io/cf-cli/install-go-cli.html).
 
 ## User Interface (Angular)
